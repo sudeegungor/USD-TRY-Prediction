@@ -2,10 +2,10 @@
 A machine learning algorithm to predict USD/TRY currency exchange rate
 SVR training parameters:
 _________________________
-Parameters Values: \n
-Kernel      rbf
-Gamma       0.005
-Epsilon     0.01
+Parameters Values: 
+Kernel      rbf|
+Gamma       0.005|
+Epsilon     0.01|
 C           100
 
 References:
