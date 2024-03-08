@@ -1,5 +1,7 @@
 # USD-TRY-Prediction
 A machine learning algorithm to predict USD/TRY currency exchange rate
+
+
 SVR training parameters:
 _________________________
 Parameters Values: 
